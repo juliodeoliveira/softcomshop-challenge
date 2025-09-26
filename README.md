@@ -50,7 +50,7 @@ Sou um **desenvolvedor web versátil e dedicado**, com sólida experiência no *
 
 ---
 
-## -🔹Projetos anteriormente realizados:
+## - Projetos anteriormente realizados:
  
  - [Gerenciador de projetos](https://github.com/juliodeoliveira/MVC-project) - De longe meu projeto mais extenso, com foco nas empresas ele ajuda na realização de projetos de larga escala de maneira organizada
  - [Book Chain](https://github.com/juliodeoliveira/book-trade) - Projeto de aplicação onde os usuários conseguem trocar livros de maneira descentralizada, possibilitando até mesmo a comunicação dentro do próprio aplicativo
